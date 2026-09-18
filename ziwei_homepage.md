@@ -12,11 +12,10 @@ training pipelines that survive long-running experiments, and evaluations that e
 
 ## About me
 
-- 🎓 M.Sc. in **Data Science and AI** from Chalmers University of Technology (top 10%).
+- 🎓 M.Sc. in **Data Science and AI** from Chalmers University of Technology.
 - 🤖 Focused on **reinforcement learning for GUI agents**, LLM agents, RAG, and efficient model deployment.
 - 🧠 Experienced with model serving, agent architecture, evaluation, fine-tuning, pruning, and quantization.
 - 🌍 Comfortable working in international research and engineering teams in English and Chinese.
-- 🎤 Gave a live AI knowledge-sharing talk to an audience of 700+ people.
 
 ## Featured project
 
@@ -74,9 +73,7 @@ The end-to-end training and evaluation pipeline is currently active. Final cross
 ## Education
 
 - **Chalmers University of Technology** — M.Sc. Data Science and AI, 2024  
-  GPA: 4.25/5 · Top 10%
 - **University of Twente** — B.Sc. Computer Science, 2021  
-  GPA: 7.1/10 · Top 25%
 
 ## Current interests
 
