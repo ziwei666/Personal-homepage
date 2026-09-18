@@ -89,9 +89,6 @@ I am especially interested in:
 
 <div align="center">
 
-### Let's connect
 
-If you are working on GUI agents, reinforcement learning, or production LLM systems,  
-feel free to reach me at **[chenziwei789@gmail.com](mailto:chenziwei789@gmail.com)**.
 
 </div>
