@@ -7,7 +7,6 @@
 I build AI systems that move beyond demos: agents that interact with real interfaces,  
 training pipelines that survive long-running experiments, and evaluations that explain *why* a model works or fails.
 
-[![Email](https://img.shields.io/badge/Email-chenziwei789%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chenziwei789@gmail.com)
 
 </div>
 
